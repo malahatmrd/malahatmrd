@@ -13,11 +13,8 @@ I believe in continuous learning, hands-on experience, and crafting meaningful d
 
   </td>
   <td align="center">
-<img src="https://raw.githubusercontent.com/mahdibland/gifcdn/main/static/galaxy-laptop-pixel.png" width="300" alt="galaxy laptop"/>
+<img src="https://raw.githubusercontent.com/mahdibland/gifcdn/main/static/neon-laptop-code.gif" width="300" alt="neon laptop code"/>
 </td>
-
-
-
   </tr>
 </table>
 
@@ -70,6 +67,3 @@ I believe in continuous learning, hands-on experience, and crafting meaningful d
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=malahatmrd&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
 </p>
-
-
----

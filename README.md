@@ -12,9 +12,10 @@ With a strong interest in both logic and visual design, my goal is to build appl
 I believe in continuous learning, hands-on experience, and crafting meaningful digital experiences that bring data and design together.
 
   </td>
-  <td width="40%" align="center">
-    <img src="https://media.tenor.com/UXp8V6q4pS0AAAAC/girl-coding.gif" width="300" alt="Pixel Art Girl Coding"/>
-  </td>
+  <td align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Woman Coding"/>
+</td>
+
   </tr>
 </table>
 

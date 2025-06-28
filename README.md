@@ -13,7 +13,7 @@ I believe in continuous learning, hands-on experience, and crafting meaningful d
 
   </td>
   <td align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="developer at work gif"/>
+    <img src="https://pin.it/7DEkj62n0" width="300" alt="developer at work gif"/>
   </td>
   </tr>
 </table>

@@ -13,8 +13,7 @@ I believe in continuous learning, hands-on experience, and crafting meaningful d
 
   </td>
   <td width="40%" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGY0NDA1NWJ0bDkwcHR2NzBpaHd3bDR2aHByaHZzNGZkZTR1azV1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eNAszYwL1VdBO/giphy.gif" width="300" alt="AI & Data Brain GIF"/>
-
+    <img src="https://media.tenor.com/UXp8V6q4pS0AAAAC/girl-coding.gif" width="300" alt="Pixel Art Girl Coding"/>
   </td>
   </tr>
 </table>

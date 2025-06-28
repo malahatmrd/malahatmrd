@@ -13,7 +13,7 @@ I believe in continuous learning, hands-on experience, and crafting meaningful d
 
   </td>
   <td align="center">
-  <img src="https://raw.githubusercontent.com/mahdibland/gifcdn/main/female-dev-1.gif" width="300" alt="woman coding"/>
+<img src="https://raw.githubusercontent.com/mahdibland/gifcdn/main/static/female-coder-dark.png" width="300" alt="female coder"/>
 </td>
 
 

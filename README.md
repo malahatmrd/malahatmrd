@@ -49,14 +49,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" width="400"/>
 </p>
 
-> 🔧 جایگزین لینک خراب: حتماً `USERNAME` را با نام کاربری گیت‌هاب خودت جایگزین کن.
 
----
-
-## 🤩 Fun Fact:
-
-🎵 I always code while listening to lo-fi beats!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="350"/>
-</p>

@@ -1,11 +1,15 @@
-## ✨ Welcome! I'm Malahat 👋
+## ✨ Hi, I'm Malahat 👋
 
-![Coding Motivation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Funny Coding Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-🎯 I'm currently focused on **Artificial Intelligence (AI)** and **Frontend Development**.  
-🚀 I'm eager to work on real-world projects to sharpen my skills and gain hands-on experience.
-
-📫 How to reach me: [malahtmardani@gmail.com](mailto:malahtmardani@gmail.com)
+🚀 Software Engineer focused on modern, scalable, and intelligent architectures  
+👩‍💻 GitHub Campus Expert | Passionate about sharing knowledge and community growth  
+🧠 Love designing smart and interactive UIs with React and AI  
+🔭 Currently working on a Shopify-based eCommerce project  
+🌱 Learning backend development & machine learning  
+📚 Lifelong learner & always exploring emerging technologies  
+🤝 Active contributor to open-source projects and tech communities  
+📫 Reach me at: ghazalnaderi4@gmail.com / mounesmardani@gmail.com
 
 ---
 
@@ -24,13 +28,13 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-#### 🤖 AI & Data Science Libraries:
+#### 🤖 AI & Data Science:
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-#### 🧰 Tools & IDEs:
+#### 🧰 Tools & Platforms:
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -49,5 +53,4 @@
 ---
 
 ### 🎧 Fun Fact:
-
-I always code while listening to **lo-fi beats** 🎧
+I always code while listening to **lo-fi beats** 🎧  

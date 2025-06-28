@@ -13,10 +13,9 @@ I believe in continuous learning, hands-on experience, and crafting meaningful d
 
   </td>
   <td align="center">
-  <img src="https://raw.githubusercontent.com/malahatmrd/media-assets/main/gifs/woman-coding-1.gif" width="300" alt="Pixel Coder Girl"/>
-
-
+  <img src="https://raw.githubusercontent.com/malahatmrd/media-assets/main/gifs/galaxy-laptop.gif" width="300" alt="Galaxy Laptop Coding"/>
 </td>
+
 
   </tr>
 </table>

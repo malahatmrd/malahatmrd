@@ -1,11 +1,12 @@
-## ✨ Welcome! I'm Malahat 👋
+## 🌟 Hello World! I'm Malahat 👩‍💻
 
-![Coding Motivation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Cute Coding Girl](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI4dHZ5dDFhOGdrcnA1b3ZsZW5sYm1wOWdvb3ZzM2MwMHZ0a2ZodCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nGMnDqebzDcfm/giphy.gif)
 
-🎯 I'm currently focused on **Artificial Intelligence (AI)** and **Frontend Development**.  
-🚀 I'm eager to work on real-world projects to sharpen my skills and gain hands-on experience.
-
-📫 How to reach me: [malahtmardani@gmail.com](mailto:malahtmardani@gmail.com)
+✨ Frontend lover turned AI explorer  
+💡 I enjoy turning data into smart solutions and UI into meaningful experiences  
+🛠 Currently building a Shopify project with scalable architecture  
+📚 Always learning — right now it's backend and machine learning!  
+📫 Let’s connect: [malahtmardani@gmail.com](mailto:malahtmardani@gmail.com)
 
 ---
 
@@ -45,9 +46,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malahatmardani&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malahatmardani&layout=compact&theme=radical)
-
----
-
-### 🎧 Fun Fact:
-
-I always code while listening to **lo-fi beats** 🎧

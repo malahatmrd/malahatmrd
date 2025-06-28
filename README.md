@@ -13,9 +13,7 @@ I believe in continuous learning, hands-on experience, and crafting meaningful d
 
   </td>
   <td width="40%" align="center">
-   <img src="https://raw.githubusercontent.com/malahatmrd/media-assets/main/gifs/ai-brain.gif" width="300"/>
-
-
+    <img src="https://raw.githubusercontent.com/malahatmrd/media-assets/main/gifs/fantasy-dev.gif" width="300"/>
   </td>
   </tr>
 </table>

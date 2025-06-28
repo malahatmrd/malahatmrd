@@ -1,48 +1,56 @@
-## 🌟 Hello World! I'm Malahat 👩‍💻
+![Cute UI Girl](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hvbzRkZ2E4MXNvNTF0cGxjdm1icXV1cTdkMWJ5aHFvOGNvZTN5ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IeRdg7gLkf3lBQ2ZDn/giphy.gif)
 
-![Cute Coding Girl](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI4dHZ5dDFhOGdrcnA1b3ZsZW5sYm1wOWdvb3ZzM2MwMHZ0a2ZodCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nGMnDqebzDcfm/giphy.gif)
+## 🎨 Hey there! I'm Malahat 👩‍💻
 
-✨ Frontend lover turned AI explorer  
-💡 I enjoy turning data into smart solutions and UI into meaningful experiences  
-🛠 Currently building a Shopify project with scalable architecture  
-📚 Always learning — right now it's backend and machine learning!  
-📫 Let’s connect: [malahtmardani@gmail.com](mailto:malahtmardani@gmail.com)
-
----
-
-### 💻 Tech Stack:
-
-#### 👩‍💻 Programming Languages:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-#### 🎨 Frontend Technologies:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-#### 🤖 AI & Data Science Libraries:
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-#### 🧰 Tools & IDEs:
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+✨ I'm a creative mind passionate about the intersection of **Frontend Development**, **Artificial Intelligence**, and **UI/UX Design**.  
+💡 I love building beautiful, intuitive, and smart user experiences — where design meets logic.  
+🚀 Currently working on a Shopify-based eCommerce platform with focus on design performance and smart features.  
+🎯 Exploring how AI can power better interactions, interfaces, and decisions on the web.  
+📚 Actively learning backend tech to become a full-stack product thinker.  
+📫 Reach out anytime: [malahtmardani@gmail.com](mailto:malahtmardani@gmail.com)
 
 ---
 
-### 📊 GitHub Stats:
+### 🧰 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malahatmardani&show_icons=true&theme=radical)
+#### 👩‍💻 Languages:
+- 🐍 Python
+- ☕ Java
+- 💠 C++
+- 🟨 JavaScript
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malahatmardani&layout=compact&theme=radical)
+#### 🎨 Frontend & UI/UX:
+- ⚛️ React.js
+- 🌬 Tailwind CSS
+- 🟪 Bootstrap
+- 🎨 Figma
+- 🧱 HTML5 + CSS3
+
+#### 🤖 AI & Data Science:
+- 📊 NumPy
+- 📈 Pandas
+- 🧠 Scikit-learn
+- 📷 OpenCV
+
+#### 🧪 Tools & Environments:
+- 💻 VS Code
+- 🧪 Postman
+- 🐳 Docker
+- 🐘 PostgreSQL
+- 🧠 PyCharm
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malahatmardani&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malahatmardani&layout=compact&theme=tokyonight)
+
+---
+
+### 🎧 Just a fun fact...
+
+![Lofi Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVndnhjNWw0anFwb2lhdmlxOXM1em9rdjVjOGU4cXY0MmdoMWRrbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41K3o5Tzvm9w1lDW/giphy.gif)
+
+> I design, code, and debug best with lo-fi beats and pixel-perfect coffee ☕

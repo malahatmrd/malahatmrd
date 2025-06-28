@@ -13,7 +13,7 @@ I believe in continuous learning, hands-on experience, and crafting meaningful d
 
   </td>
   <td align="center">
-    <img src="https://github.com/malahatmrd/malahatmrd/blob/main/0f1b2a1445ac116f2951e3a36384eb01.gif" width="300" alt="developer at work gif"/>
+    <img src="https://your-gif-url-here.gif" width="300" alt="female developer coding gif"/>
   </td>
   </tr>
 </table>
@@ -67,5 +67,3 @@ I believe in continuous learning, hands-on experience, and crafting meaningful d
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=malahatmrd&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
 </p>
-
----

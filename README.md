@@ -13,7 +13,7 @@ I believe in continuous learning, hands-on experience, and crafting meaningful d
 
   </td>
   <td align="center">
-<img src="https://raw.githubusercontent.com/mahdibland/gifcdn/main/static/female-coder-dark.png" width="300" alt="female coder"/>
+<img src="https://raw.githubusercontent.com/mahdibland/gifcdn/main/static/galaxy-laptop-pixel.png" width="300" alt="galaxy laptop"/>
 </td>
 
 

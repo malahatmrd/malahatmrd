@@ -13,7 +13,7 @@ I believe in continuous learning, hands-on experience, and crafting meaningful d
 
   </td>
   <td width="40%" align="center">
-   <img src="https://media.giphy.com/media/tZ9iKArp91Ao0xY73D/giphy.gif" width="300" alt="UI UX Woman"/>
+   <img src="https://media.giphy.com/media/3o7TKUM6OQwLE45Qfy/giphy.gif" width="300" alt="Fantasy cartoon coder"/>
   </td>
   </tr>
 </table>

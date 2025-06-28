@@ -13,7 +13,7 @@ I believe in continuous learning, hands-on experience, and crafting meaningful d
 
   </td>
   <td align="center">
-    <img src="https://github.com/malahatmrd/malahatmrd/blob/main/c876fa162596fed94f312c782e3bd968.gif" width="300" alt="female developer coding gif"/>
+    <img src="https://github.com/malahatmrd/malahatmrd/blob/main/0f1b2a1445ac116f2951e3a36384eb01.gif" width="300" alt="female developer coding gif"/>
   </td>
   </tr>
 </table>

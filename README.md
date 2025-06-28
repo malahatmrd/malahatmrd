@@ -13,7 +13,7 @@ I believe in continuous learning, hands-on experience, and crafting meaningful d
 
   </td>
   <td align="center">
-  <img src="https://raw.githubusercontent.com/malahatmrd/media-assets/main/gifs/galaxy-laptop.gif" width="300" alt="Galaxy Laptop Coding"/>
+    <img src="https://raw.githubusercontent.com/mahdibland/gifcdn/main/galaxy-laptop.gif" width="300" alt="galaxy laptop gif"/>
 </td>
 
 

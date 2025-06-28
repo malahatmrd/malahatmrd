@@ -1,14 +1,11 @@
-## Hi 👋, I'm Malahat
+## ✨ Welcome! I'm Malahat 👋
+
+![Coding Motivation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 🎯 I'm currently focused on **Artificial Intelligence (AI)** and **Frontend Development**.  
 🚀 I'm eager to work on real-world projects to sharpen my skills and gain hands-on experience.
 
 📫 How to reach me: [malahtmardani@gmail.com](mailto:malahtmardani@gmail.com)
-
----
-
-### 🌐 Socials:
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 
 ---
 
@@ -54,9 +51,3 @@
 ### 🎧 Fun Fact:
 
 I always code while listening to **lo-fi beats** 🎧
-
----
-
-### ✨ Motivational GIF:
-
-![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)

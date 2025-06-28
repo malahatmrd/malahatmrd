@@ -1,4 +1,4 @@
-<!-- Header with About Me + GIF -->
+<!-- Header with About Me + GIFs -->
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
@@ -13,7 +13,9 @@ I believe in continuous learning, hands-on experience, and crafting meaningful d
 
   </td>
   <td align="center">
-<img src="https://raw.githubusercontent.com/mahdibland/gifcdn/main/static/neon-laptop-code.gif" width="300" alt="neon laptop code"/>
+<img src="https://raw.githubusercontent.com/mahdibland/gifcdn/main/static/galaxy-laptop-pixel.png" width="300" alt="galaxy laptop"/>
+<br><br>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="coding animation"/>
 </td>
   </tr>
 </table>

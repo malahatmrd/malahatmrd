@@ -13,7 +13,8 @@ I believe in continuous learning, hands-on experience, and crafting meaningful d
 
   </td>
   <td align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="UI Design Girl"/>
+  <img src="https://raw.githubusercontent.com/malahatmrd/media-assets/main/gifs/woman-coding-1.gif" width="300" alt="Pixel Coder Girl"/>
+
 
 </td>
 

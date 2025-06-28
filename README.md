@@ -1,37 +1,53 @@
-## 👋 Hi, I'm Malahat
+## 💫 Hey there, I'm Malahat 👩‍💻
 
-![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Cute Girl Coding](https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif)
 
-🎯 Software Engineer | AI & Frontend Developer  
-🧠 Passionate about smart interfaces & meaningful code  
-🔭 Currently working on a Shopify-based eCommerce project  
-🌱 Learning backend development & machine learning  
-🤝 Open-source enthusiast & tech community supporter  
-📫 Reach me at: ghazalnaderi4@gmail.com / mounesmardani@gmail.com
-
----
-
-### 🚀 Tech Stack
-
-**Languages & Frameworks**  
-🟡 Python · 🟦 C++ · ☕ Java · 🟨 JavaScript  
-🟧 React · 🌬 Tailwind CSS · 🟪 Bootstrap
-
-**AI & Data Science**  
-📊 NumPy · 📈 Pandas · 🧠 scikit-learn · 📷 OpenCV
-
-**Tools & Platforms**  
-🧰 VS Code · 🐳 Docker · 🎨 Figma · 💡 Postman · 🐘 PostgreSQL
+🎨 Frontend Developer | 🤖 AI Explorer | 🧠 Problem Solver  
+🌈 I love turning ideas into beautiful and intelligent interfaces  
+🚧 Currently building a Shopify-based eCommerce site  
+📚 Learning backend development and diving deeper into machine learning  
+🤝 Contributor to open-source & fan of creative tech communities  
+📬 Contact me: ghazalnaderi4@gmail.com / mounesmardani@gmail.com
 
 ---
 
-### 📈 GitHub Insights
+### ⚙️ Tech I Work With
 
-![Stats](https://github-readme-stats.vercel.app/api?username=malahatmardani&show_icons=true&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malahatmardani&layout=compact&theme=tokyonight)
+#### 🔹 Programming Languages  
+- 🐍 Python  
+- 🟨 JavaScript  
+- ☕ Java  
+- 💠 C++
+
+#### 🎨 Frontend  
+- ⚛️ React.js  
+- 🌬 Tailwind CSS  
+- 🟪 Bootstrap  
+- 🧱 HTML + CSS
+
+#### 🤖 AI & Data Science  
+- 📊 NumPy  
+- 📈 Pandas  
+- 🧠 scikit-learn  
+- 📷 OpenCV
+
+#### 🧰 Tools & Platforms  
+- 💻 VS Code  
+- 🎨 Figma  
+- 🧪 Postman  
+- 🐳 Docker  
+- 🐘 PostgreSQL
 
 ---
 
-### 🎧 Fun Fact
+### 📊 GitHub Overview
 
-I always code better with a cup of tea and **lo-fi beats** 🎶  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malahatmardani&show_icons=true&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malahatmardani&layout=compact&theme=gruvbox)
+
+---
+
+### 🌸 Fun Fact
+
+![Cute Lofi](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
+> I solve bugs faster when there's a cozy lo-fi beat playing in the background 🎧

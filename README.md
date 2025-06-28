@@ -47,10 +47,3 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malahatmardani&layout=compact&theme=tokyonight)
 
----
-
-### 🎧 Just a fun fact...
-
-![Lofi Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVndnhjNWw0anFwb2lhdmlxOXM1em9rdjVjOGU4cXY0MmdoMWRrbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41K3o5Tzvm9w1lDW/giphy.gif)
-
-> I design, code, and debug best with lo-fi beats and pixel-perfect coffee ☕

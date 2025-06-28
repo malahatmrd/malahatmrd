@@ -1,53 +1,39 @@
-## 💫 Hey there, I'm Malahat 👩‍💻
+![Hello Coding Bear](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt2NnVqaHNmejBpYmkyZXRuNnQ5bmRjYjAwMG05enVkaHI4d3B0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nx0rz3jtxtEre/giphy.gif)
 
-![Cute Girl Coding](https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif)
+## 👋 Hi, I'm Malahat
 
-🎨 Frontend Developer | 🤖 AI Explorer | 🧠 Problem Solver  
-🌈 I love turning ideas into beautiful and intelligent interfaces  
-🚧 Currently building a Shopify-based eCommerce site  
-📚 Learning backend development and diving deeper into machine learning  
-🤝 Contributor to open-source & fan of creative tech communities  
-📬 Contact me: ghazalnaderi4@gmail.com / mounesmardani@gmail.com
-
----
-
-### ⚙️ Tech I Work With
-
-#### 🔹 Programming Languages  
-- 🐍 Python  
-- 🟨 JavaScript  
-- ☕ Java  
-- 💠 C++
-
-#### 🎨 Frontend  
-- ⚛️ React.js  
-- 🌬 Tailwind CSS  
-- 🟪 Bootstrap  
-- 🧱 HTML + CSS
-
-#### 🤖 AI & Data Science  
-- 📊 NumPy  
-- 📈 Pandas  
-- 🧠 scikit-learn  
-- 📷 OpenCV
-
-#### 🧰 Tools & Platforms  
-- 💻 VS Code  
-- 🎨 Figma  
-- 🧪 Postman  
-- 🐳 Docker  
-- 🐘 PostgreSQL
+💻 Frontend Developer & AI Learner  
+🧠 Passionate about clean UI, smart logic & real-world problem solving  
+🎯 Currently working on a Shopify-based eCommerce platform  
+🌱 Learning backend development and expanding in machine learning  
+🤝 Open-source contributor and active tech community participant  
+📫 Reach me at: ghazalnaderi4@gmail.com / mounesmardani@gmail.com
 
 ---
 
-### 📊 GitHub Overview
+### 🛠 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malahatmardani&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malahatmardani&layout=compact&theme=gruvbox)
+**Languages:**  
+🐍 Python · ☕ Java · 🟨 JavaScript · 💠 C++
+
+**Frontend:**  
+⚛️ React · 🌬 Tailwind CSS · 🟪 Bootstrap · 🧱 HTML & CSS
+
+**AI & Data Science:**  
+📊 NumPy · 📈 Pandas · 🧠 Scikit-learn · 📷 OpenCV
+
+**Tools:**  
+💻 VS Code · 🎨 Figma · 🧪 Postman · 🐳 Docker · 🐘 PostgreSQL
 
 ---
 
-### 🌸 Fun Fact
+### 📈 GitHub Stats
 
-![Cute Lofi](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
-> I solve bugs faster when there's a cozy lo-fi beat playing in the background 🎧
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malahatmardani&show_icons=true&theme=merko)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malahatmardani&layout=compact&theme=merko)
+
+---
+
+### ☕ Fun Fact
+
+I believe in **"code + tea + lo-fi = focus mode"** 🎧
